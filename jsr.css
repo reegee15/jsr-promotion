@@ -1,0 +1,22 @@
+@font-face{
+    font-family:"JetSet"
+    src: local("/fonts/JetSet.woff")
+}
+
+*{
+    font-family: ;
+}
+
+
+
+html {
+    background-color: lightgreen;;
+}
+
+.main-header{
+    background-image: url(jsrlogo.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
